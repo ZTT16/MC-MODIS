@@ -6,8 +6,8 @@ MODIS-compatible NDVI (MC-MODIS) is a reverse-extended MODIS product that based 
 Data storage format：<year><number of periods>.tif
 MC-MODIS spans from 1982 to 2001, providing 23 data issues per year. Thus, the file names are formatted as <1982><01>.tif ... <2001><23>.tif.
 
-For information on the data generation method, please refer to the appropriate sources: 论文链接
+For information on the data generation method, please refer to the appropriate sources: https://doi.org/10.1109/JSTARS.2025.3550416
 
-Use this data please quote：论文引用
+Use this data please quote: Zhang, T., Zhang, H., Wang, Y., Xiong, T., Wang, M., Zhang, Z., Guo, X., & Zhao, J. (2025). A global extended MODIS-compatible NDVI dataset. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 1–9. https://doi.org/10.1109/JSTARS.2025.3550416
 
 Baidu cloud disk download address: https://pan.baidu.com/s/1E8P7c9NJIN2mOcbEvXpHNA?pwd=2nwp
