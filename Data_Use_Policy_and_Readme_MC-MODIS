@@ -3,8 +3,21 @@ Data_Use_Policy_and_Readme_MC-MODIS
 About
 MODIS-compatible NDVI (MC-MODIS) is a reverse-extended MODIS product that based on AVHRR and MODIS. It maintains the same temporal and spatial resolution as the MOD13C1 product, which is 16 days and 0.05° respectively. 
 
+Data Description
+Data Name: MODIS-Compatible NDVI
+Area: Global Vegetation area
+Projection: Geographic
+Period: January 1982 to December 2000
+Temporal Resolution: half month
+Spatial Resolution:0.05°
+Units: Unitless
+Fill Value: Non vegetation or NDVI ≤0 -- NA
+Valid Range: 0-1
+File Format: *.tif
+
 Data storage format：<year><number of periods>.tif
 MC-MODIS spans from 1982 to 2000, providing 23 data issues per year. Thus, the file names are formatted as <1982><01>.tif ... <2000><23>.tif.
+For example, 198201 is the file name of the image in the first half month of January in 2001.
 
 For information on the data generation method, please refer to the appropriate sources: https://doi.org/10.1109/JSTARS.2025.3550416
 
